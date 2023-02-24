@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather__application/static/css/main.91fc5f88.css",
+    "main.js": "/Weather__application/static/js/main.543eecf4.js",
+    "static/media/sunset.jpg": "/Weather__application/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/Weather__application/index.html",
+    "main.91fc5f88.css.map": "/Weather__application/static/css/main.91fc5f88.css.map",
+    "main.543eecf4.js.map": "/Weather__application/static/js/main.543eecf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91fc5f88.css",
+    "static/js/main.543eecf4.js"
+  ]
+}
